@@ -17,13 +17,14 @@
 *John Was here*
 **John left**
 
-# UserStory-015
-
-This word is <div "background-color: #FFFF00">highlighted</div>
+# UserStory-015  
 
 
+This word is <mark>very important words</mark>  
 
-# UserStory-006
+
+
+# UserStory-006  
 
 
 | Tables   |      Are      |  Cool |
