@@ -79,11 +79,12 @@ let a = "Hello World;
 
 # Userstory-002
 
->Java
+```Java
 
 class CodeBlock
 {
     public static void main(String arg[])
+
     {
         System.out.println("In main block");
         
@@ -105,6 +106,7 @@ class CodeBlock
             }
         } // LINE D    
     }
+ ```
 
 
 
