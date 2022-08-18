@@ -60,3 +60,8 @@ Userstory-019:
 
 [Google Search Engine](https://www.google.se/).
 
+# Userstory 16
+
+```sequence {theme= "simple"}
+    Rimon -> Jiji: Säger hej 
+```
