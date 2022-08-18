@@ -24,6 +24,28 @@
 
 This word is `highlighted`, this word is also `highlighted`. I like `highlighted` words.
 
+# UserStory-013
+classDiagram
+    Animal <|-- Duck
+    Animal <|-- Fish
+    Animal <|-- Zebra
+    Animal : +int age
+    Animal : +String gender
+    Animal: +isMammal()
+    Animal: +mate()
+    class Duck{
+        +String beakColor
+        +swim()
+        +quack()
+    }
+    class Fish{
+        -int sizeInFeet
+        -canEat()
+    }
+    class Zebra{
+        +bool is_wild
+        +run()
+    }
 
 # UserStory-006  
 
@@ -131,6 +153,10 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 ```
+<<<<<<< HEAD
+# Userstory 8 
+ ocean man :joy: Emoticon 
+=======
 
 
 
@@ -149,3 +175,4 @@ sequenceDiagram
 
  
    
+>>>>>>> 283774c8bcf82c3d2dd1f05f348ca4ef16eca3c1
