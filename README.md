@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 # gruppgit
 
 
@@ -19,9 +17,9 @@ Devops Collegue User Instruction
 
 =======
 # userstory 11
-   > Markdown blockquote
-   > Blabla
-   > Blabla
+   > Markdown blockquote  
+   > Blabla  
+   > Blabla  
 
 # gruppgit
 
@@ -32,5 +30,3 @@ Devops Collegue User Instruction
 let a = "Hello World;
 
 ```
->>>>>>> 000991315b894498c6daf2d1fbfe3e711c53828f
-
