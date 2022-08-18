@@ -153,12 +153,26 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 ```
+<<<<<<< HEAD
+# Userstory 8 
+ ocean man :joy: Emoticon 
+=======
 
 
 
-    
+# Userstory-010
+
+### Ordered List
+
+1. First item
+2. Second item
+3. Third item
+    - Indented item
+    - Indented item
+4. Fourth item
     
     
 
  
    
+>>>>>>> 283774c8bcf82c3d2dd1f05f348ca4ef16eca3c1
