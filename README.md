@@ -153,11 +153,9 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 ```
-<<<<<<< HEAD
+
 # Userstory 8 
  ocean man :joy: Emoticon 
-=======
-
 
 
 # Userstory-010
@@ -170,9 +168,15 @@ sequenceDiagram
     - Indented item
     - Indented item
 4. Fourth item
-    
-    
 
- 
-   
->>>>>>> 283774c8bcf82c3d2dd1f05f348ca4ef16eca3c1
+
+# Userstory-012
+
+```mermaid
+
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+
+```
