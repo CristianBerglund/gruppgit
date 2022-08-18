@@ -47,9 +47,34 @@ let a = "Hello World;
 
 ```
 
-#Userstory-002
+# Userstory-002
 
->I don’t need a hair stylist, my pillow gives me a new hairstyle every morning.
+>Java
+
+class CodeBlock
+{
+    public static void main(String arg[])
+    {
+        System.out.println("In main block");
+        
+        {    // LINE A
+            System.out.print("In ");
+            System.out.print("inner ");
+            System.out.print("block ");    // LINE A1
+            System.out.println("One");
+        }
+        
+        {    // LINE B
+            System.out.print("In ");
+            System.out.print("inner ");
+            System.out.print("block ");
+            System.out.println("Two");
+        
+            {    // LINE C
+                System.out.println ("Block inside inner block two");
+            }
+        } // LINE D    
+    }
 
 # Userstory 03
 
@@ -79,3 +104,11 @@ Userstory-019:
 
 ##### ps. I'm low carb carnivore ;)
 
+
+
+    
+    
+    
+
+ 
+   
