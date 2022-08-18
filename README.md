@@ -2,6 +2,7 @@
 
 
 
+
 # Userstory-003.
 ### To add an image write this markdown code as following, replace the local image file with your filename.
 ### Example: ![David Keys Logo](DavidKeysLarge.jpg)
@@ -19,11 +20,15 @@
 
 # UserStory-015  
 
+<<<<<<< HEAD
+This word is <p style="background-color:yellow">highlighted</p>, this word is also <span style="background-color:yellow">highlighted</span>. I like <span style="background-color:yellow">highlighted words</span> 
+=======
 <div>
 
 
 This word is <span style="background-color:yellow">highlighted</span>, this word is also <span style="background-color:yellow">highlighted</span>. I like <span style="background-color:yellow">highlighted words</span>
 
+>>>>>>> d4447cc54afaa65b13dc150a13af0b2a9ccbea46
 
 </div>
 
@@ -36,6 +41,23 @@ This word is <span style="background-color:yellow">highlighted</span>, this word
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
+
+
+# user story 009:
+You can create a horizontal break to divide your text by placing three (or more) underscores 
+
+___
+
+or asterisks 
+
+***
+
+or hyphens
+
+---
+
+on their own line.
+
 
 
 # userstory 11
