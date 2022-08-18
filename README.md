@@ -24,6 +24,8 @@
 let a = "Hello World;
 
 ```
+# Userstory 03
 
+[MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
 
 
