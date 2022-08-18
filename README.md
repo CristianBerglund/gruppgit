@@ -19,6 +19,10 @@
 
 # UserStory-015  
 
+<<<<<<< HEAD
+This word is [highlighted], this word is also [highlighted]. I like [highlighted words]
+=======
+>>>>>>> 1a144d01c953d4cccdc40000a4e50ad453a3fa11
 
 This word is <mark>very important words</mark>  
 
