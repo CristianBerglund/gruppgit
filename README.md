@@ -25,28 +25,28 @@
 This word is `highlighted`, this word is also `highlighted`. I like `highlighted` words.
 
 # UserStory-013
+```mermaid
 classDiagram
-    Animal <|-- Duck
-    Animal <|-- Fish
-    Animal <|-- Zebra
+    Animal <|-- Ant
+    Animal <|-- Frog
+    Animal <|-- Dog
     Animal : +int age
     Animal : +String gender
     Animal: +isMammal()
     Animal: +mate()
-    class Duck{
+    class Ant{
         +String beakColor
         +swim()
-        +quack()
     }
-    class Fish{
+    class Frog{
         -int sizeInFeet
         -canEat()
     }
-    class Zebra{
-        +bool is_wild
+    class Dog{
+        +bool is_not_wild
         +run()
     }
-
+```
 # UserStory-006  
 
 
