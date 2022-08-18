@@ -8,7 +8,7 @@
 
 # UserStory-015
 
-This word is ==highlighted==
+This word is <span>highlighted</span>
 
 
 # UserStory-006
