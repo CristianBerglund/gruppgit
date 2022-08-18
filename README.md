@@ -1,6 +1,7 @@
 
 
 
+
 # Userstory-003.
 ### To add an image write this markdown code as following, replace the local image file with your filename.
 ### Example: ![David Keys Logo](DavidKeysLarge.jpg)
@@ -46,6 +47,11 @@ This word is
 let a = "Hello World;
 
 ```
+
+# Userstory-002
+
+>I don’t need a hair stylist, my pillow gives me a new hairstyle every morning.
+
 # Userstory 03
 
 [MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo") 
@@ -59,9 +65,26 @@ let a = "Hello World;
 
 extra: 
 Userstory-019:
-# As a Devops,
-## I want to
-### Learn to code like a pro,
-### Have a Galeon 400 and
+#### As a Devops,
+#### I want to
+#### Learn to code like a pro,
+#### Have a Galeon 400 and
 #### Maybe eat pizza every day.
+##### ps. I'm low carb carnivore ;) 
+
+
+# Userstory 05
+
+[Google Search Engine](https://www.google.se/).
+
+<<<<<<< HEAD
+# Userstory 16
+
+```sequence {theme= "simple"}
+    Rimon -> Jiji: Säger hej 
+```
+=======
+
 ##### ps. I'm low carb carnivore ;)
+
+>>>>>>> 9ce76d61fe36521deca486140188d8d9b3ed9351
