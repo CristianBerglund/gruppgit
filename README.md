@@ -19,8 +19,7 @@
 
 # UserStory-015
 
-This word is 
-<mark>highlighted</mark>
+This word is [highlighted], this word is also [highlighted]. I like [highlighted words]
 
 
 
