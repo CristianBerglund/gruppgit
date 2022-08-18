@@ -3,6 +3,7 @@
 
 
 
+
 # Userstory-003.
 ### To add an image write this markdown code as following, replace the local image file with your filename.
 ### Example: ![David Keys Logo](DavidKeysLarge.jpg)
@@ -45,11 +46,13 @@ ___
 
 or asterisks 
 
+"***"
 ***
 
 or hyphens
 
----
+"---"
+----
 
 on their own line.
 
@@ -71,7 +74,32 @@ let a = "Hello World;
 
 # Userstory-002
 
->I don’t need a hair stylist, my pillow gives me a new hairstyle every morning.
+>Java
+
+class CodeBlock
+{
+    public static void main(String arg[])
+    {
+        System.out.println("In main block");
+        
+        {    // LINE A
+            System.out.print("In ");
+            System.out.print("inner ");
+            System.out.print("block ");    // LINE A1
+            System.out.println("One");
+        }
+        
+        {    // LINE B
+            System.out.print("In ");
+            System.out.print("inner ");
+            System.out.print("block ");
+            System.out.println("Two");
+        
+            {    // LINE C
+                System.out.println ("Block inside inner block two");
+            }
+        } // LINE D    
+    }
 
 
 
@@ -106,3 +134,11 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
+
+
+    
+    
+    
+
+ 
+   
