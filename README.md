@@ -21,11 +21,15 @@
 
 # UserStory-015  
 
+<<<<<<< HEAD
+This word is <p style="background-color:yellow">highlighted</p>, this word is also <span style="background-color:yellow">highlighted</span>. I like <span style="background-color:yellow">highlighted words</span> 
+=======
 <div>
 
 
 This word is <span style="background-color:yellow">highlighted</span>, this word is also <span style="background-color:yellow">highlighted</span>. I like <span style="background-color:yellow">highlighted words</span>
 
+>>>>>>> d4447cc54afaa65b13dc150a13af0b2a9ccbea46
 
 </div>
 
