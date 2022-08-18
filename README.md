@@ -6,6 +6,10 @@
 *John Was here*
 **John left**
 
+# UserStory-015
+
+This word is <mark style="background-color: lightblue">highlighted</mark>
+
 
 # UserStory-006
 
@@ -30,6 +34,9 @@
 let a = "Hello World;
 
 ```
+# Userstory 03
+
+[MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
 
 Userstory-019:
 # As a Devops,
