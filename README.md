@@ -2,6 +2,8 @@
 
 
 
+
+
 # Userstory-003.
 ### To add an image write this markdown code as following, replace the local image file with your filename.
 ### Example: ![David Keys Logo](DavidKeysLarge.jpg)
@@ -24,7 +26,6 @@
 
 This word is <span style="background-color:yellow">highlighted</span>, this word is also <span style="background-color:yellow">highlighted</span>. I like <span style="background-color:yellow">highlighted words</span>
 
-
 </div>
 
 
@@ -38,6 +39,25 @@ this text is `highlighted`
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
+
+
+# user story 009:
+You can create a horizontal break to divide your text by placing three (or more) underscores 
+
+___
+
+or asterisks 
+
+"***"
+***
+
+or hyphens
+
+"---"
+----
+
+on their own line.
+
 
 
 # userstory 11
@@ -56,7 +76,32 @@ let a = "Hello World;
 
 # Userstory-002
 
->I don’t need a hair stylist, my pillow gives me a new hairstyle every morning.
+>Java
+
+class CodeBlock
+{
+    public static void main(String arg[])
+    {
+        System.out.println("In main block");
+        
+        {    // LINE A
+            System.out.print("In ");
+            System.out.print("inner ");
+            System.out.print("block ");    // LINE A1
+            System.out.println("One");
+        }
+        
+        {    // LINE B
+            System.out.print("In ");
+            System.out.print("inner ");
+            System.out.print("block ");
+            System.out.println("Two");
+        
+            {    // LINE C
+                System.out.println ("Block inside inner block two");
+            }
+        } // LINE D    
+    }
 
 
 
@@ -91,3 +136,11 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
+
+
+    
+    
+    
+
+ 
+   
