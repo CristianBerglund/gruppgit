@@ -52,13 +52,8 @@ let a = "Hello World;
 
 >I don’t need a hair stylist, my pillow gives me a new hairstyle every morning.
 
-# Userstory 03
 
-[MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo") 
 
-# Userstory 05
-
-[Google Search Engine](https://www.google.se/).
 
 
 extra: 
@@ -89,5 +84,4 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 ```
-##### ps. I'm low carb carnivore ;)
 
