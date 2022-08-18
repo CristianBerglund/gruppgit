@@ -19,7 +19,7 @@
 
 # UserStory-015  
 
-This word is [highlighted], this word is also [highlighted]. I like [highlighted words] 
+This word is <span style="background-color:yellow">highlighted</span>, this word is also <span style="background-color:yellow">highlighted</span>. I like <span style="background-color:yellow">highlighted words</span> 
 
 
 
