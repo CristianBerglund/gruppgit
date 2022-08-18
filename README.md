@@ -8,7 +8,7 @@
 
 # UserStory-015
 
-This word is <mark style="background-color: lightblue">highlighted</mark>
+This word is ==highlighted==
 
 
 # UserStory-006
