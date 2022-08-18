@@ -11,17 +11,11 @@
 | col 3 is | right-aligned |    $1 |
 
 
-
-
-# gruppgit
-
-
 # userstory 11
    > Markdown blockquote  
    > Blabla  
    > Blabla  
 
-# gruppgit
 
 # Userstory 01
 
