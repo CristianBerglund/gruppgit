@@ -21,13 +21,8 @@
 
 # UserStory-015  
 
-<div>
 
-
-This word is <span style="background-color:yellow">highlighted</span>, this word is also <span style="background-color:yellow">highlighted</span>. I like <span style="background-color:yellow">highlighted words</span>
-
-</div>
-
+This word is `highlighted`, this word is also `highlighted`. I like `highlighted` words.
 
 # UserStory-006  
 
