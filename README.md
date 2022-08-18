@@ -1,5 +1,6 @@
 
 
+
 # Userstory-003.
 ### To add an image write this markdown code as following, replace the local image file with your filename.
 ### Example: ![David Keys Logo](DavidKeysLarge.jpg)
@@ -17,7 +18,8 @@
 
 # UserStory-015
 
-This word is <mark >highlighted</mark>
+<div>This word is <mark style="background-color: #FFFF00">highlighted</mark></div>
+
 
 
 # UserStory-006
@@ -50,11 +52,19 @@ let a = "Hello World;
 
 # Userstory 03
 
-[MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
+[MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo") 
 
+# Userstory 05
+
+[Google Search Engine](https://www.google.se/).
+
+
+
+
+extra: 
 Userstory-019:
 # As a Devops,
-## I want to 
+## I want to
 ### Learn to code like a pro,
 ### Have a Galeon 400 and
 #### Maybe eat pizza every day.
@@ -64,4 +74,7 @@ Userstory-019:
 # Userstory 05
 
 [Google Search Engine](https://www.google.se/).
+
+
+##### ps. I'm low carb carnivore ;)
 
