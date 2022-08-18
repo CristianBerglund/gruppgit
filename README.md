@@ -24,7 +24,6 @@
 
 This word is `highlighted`, this word is also `highlighted`. I like `highlighted` words.
 
-this text is `highlighted`
 
 # UserStory-006  
 
