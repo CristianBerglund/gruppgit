@@ -2,6 +2,8 @@
 
 
 
+
+
 # Userstory-003.
 ### To add an image write this markdown code as following, replace the local image file with your filename.
 ### Example: ![David Keys Logo](DavidKeysLarge.jpg)
@@ -19,14 +21,31 @@
 
 # UserStory-015  
 
-<<<<<<< HEAD
-This word is [highlighted], this word is also [highlighted]. I like [highlighted words]
-=======
->>>>>>> 1a144d01c953d4cccdc40000a4e50ad453a3fa11
 
-This word is <mark>very important words</mark>  
+This word is `highlighted`, this word is also `highlighted`. I like `highlighted` words.
 
-
+# UserStory-013
+classDiagram
+    Animal <|-- Duck
+    Animal <|-- Fish
+    Animal <|-- Zebra
+    Animal : +int age
+    Animal : +String gender
+    Animal: +isMammal()
+    Animal: +mate()
+    class Duck{
+        +String beakColor
+        +swim()
+        +quack()
+    }
+    class Fish{
+        -int sizeInFeet
+        -canEat()
+    }
+    class Zebra{
+        +bool is_wild
+        +run()
+    }
 
 # UserStory-006  
 
@@ -36,6 +55,25 @@ This word is <mark>very important words</mark>
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
+
+
+# user story 009:
+You can create a horizontal break to divide your text by placing three (or more) underscores 
+
+___
+
+or asterisks 
+
+"***"
+***
+
+or hyphens
+
+"---"
+----
+
+on their own line.
+
 
 
 # userstory 11
@@ -54,7 +92,34 @@ let a = "Hello World;
 
 # Userstory-002
 
->I don’t need a hair stylist, my pillow gives me a new hairstyle every morning.
+```Java
+
+class CodeBlock
+{
+    public static void main(String arg[])
+
+    {
+        System.out.println("In main block");
+        
+        {    // LINE A
+            System.out.print("In ");
+            System.out.print("inner ");
+            System.out.print("block ");    // LINE A1
+            System.out.println("One");
+        }
+        
+        {    // LINE B
+            System.out.print("In ");
+            System.out.print("inner ");
+            System.out.print("block ");
+            System.out.println("Two");
+        
+            {    // LINE C
+                System.out.println ("Block inside inner block two");
+            }
+        } // LINE D    
+    }
+ ```
 
 
 
@@ -88,5 +153,17 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 ```
+<<<<<<< HEAD
 # Userstory 8 
  ocean man :joy: Emoticon 
+=======
+
+
+
+    
+    
+    
+
+ 
+   
+>>>>>>> 283774c8bcf82c3d2dd1f05f348ca4ef16eca3c1
