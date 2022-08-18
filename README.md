@@ -34,7 +34,12 @@ This word is <mark style="background-color: lightblue">highlighted</mark>
 let a = "Hello World;
 
 ```
+# Userstory 03
 
+<<<<<<< HEAD
+[MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
+
+=======
 Userstory-019:
 # As a Devops,
 ## I want to 
@@ -42,4 +47,5 @@ Userstory-019:
 ### Have a Galeon 400 and
 #### Maybe eat pizza every day.
 ##### ps. I'm low carb carnivore ;) 
+>>>>>>> fac41976852eb2190e6bc4f391408d0fb2ee46c6
 
