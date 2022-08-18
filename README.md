@@ -3,21 +3,20 @@
 # gruppgit
 
 
-UserStory-006
+# UserStory-006
 
-As a devops,
-I want to,
-have a Help File for
-Making a table in Markdown.
-So that
-When I need to do it I can find instruction.
-DoD
-Devops Collegue User Instruction
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+
+
 # gruppgit
 
 
-
-=======
 # userstory 11
    > Markdown blockquote
    > Blabla
@@ -32,5 +31,4 @@ Devops Collegue User Instruction
 let a = "Hello World;
 
 ```
->>>>>>> 000991315b894498c6daf2d1fbfe3e711c53828f
 
