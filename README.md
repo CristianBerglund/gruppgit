@@ -18,7 +18,8 @@
 
 # UserStory-015
 
-This word is ==highlighted==
+<div>This word is <mark style="background-color: #FFFF00">highlighted</mark></div>
+
 
 
 # UserStory-006
