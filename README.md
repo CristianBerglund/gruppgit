@@ -9,6 +9,7 @@
 
 # gruppgit
 
+
 # UserStory-007
 
 *John Was here*
@@ -16,7 +17,7 @@
 
 # UserStory-015
 
-This word is <span>highlighted</span>
+This word is <mark >highlighted</mark>
 
 
 # UserStory-006
