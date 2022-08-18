@@ -60,8 +60,6 @@ let a = "Hello World;
 [Google Search Engine](https://www.google.se/).
 
 
-
-
 extra: 
 Userstory-019:
 #### As a Devops,
@@ -76,14 +74,19 @@ Userstory-019:
 
 [Google Search Engine](https://www.google.se/).
 
-<<<<<<< HEAD
 # Userstory 16
-
-```sequence {theme= "simple"}
-    Rimon -> Jiji: Säger hej 
+``` mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail!
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
 ```
-=======
-
 ##### ps. I'm low carb carnivore ;)
 
->>>>>>> 9ce76d61fe36521deca486140188d8d9b3ed9351
