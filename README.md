@@ -3,6 +3,7 @@
 
 
 
+
 # Userstory-003.
 ### To add an image write this markdown code as following, replace the local image file with your filename.
 ### Example: ![David Keys Logo](DavidKeysLarge.jpg)
@@ -50,11 +51,13 @@ ___
 
 or asterisks 
 
+"***"
 ***
 
 or hyphens
 
----
+"---"
+----
 
 on their own line.
 
