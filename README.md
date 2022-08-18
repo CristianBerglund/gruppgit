@@ -6,6 +6,10 @@
 *John Was here*
 **John left**
 
+# UserStory-015
+
+This word is<mark>highlighted</mark>
+
 
 # UserStory-006
 
