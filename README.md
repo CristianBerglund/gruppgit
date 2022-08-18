@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 # gruppgit
 
 
@@ -14,21 +12,24 @@
 
 
 
+
 # gruppgit
 
 
 # userstory 11
-   > Markdown blockquote
-   > Blabla
-   > Blabla
+   > Markdown blockquote  
+   > Blabla  
+   > Blabla  
 
 # gruppgit
 
 # Userstory 01
 
-````js
+```js
 
 let a = "Hello World;
 
 ```
+
+
 
