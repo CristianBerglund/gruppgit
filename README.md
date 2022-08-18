@@ -17,13 +17,18 @@
 *John Was here*
 **John left**
 
-# UserStory-015
+# UserStory-015  
 
-This word is <div "background-color: #FFFF00">highlighted</div>
+<div>
 
 
+This word is <span style="background-color:yellow">highlighted</span>, this word is also <span style="background-color:yellow">highlighted</span>. I like <span style="background-color:yellow">highlighted words</span>
 
-# UserStory-006
+
+</div>
+
+
+# UserStory-006  
 
 
 | Tables   |      Are      |  Cool |
@@ -76,13 +81,6 @@ class CodeBlock
         } // LINE D    
     }
 
-# Userstory 03
-
-[MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo") 
-
-# Userstory 05
-
-[Google Search Engine](https://www.google.se/).
 
 
 
@@ -101,8 +99,20 @@ Userstory-019:
 
 [Google Search Engine](https://www.google.se/).
 
-
-##### ps. I'm low carb carnivore ;)
+# Userstory 16
+``` mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail!
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+```
 
 
 
