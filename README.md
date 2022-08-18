@@ -14,6 +14,10 @@
 *John Was here*
 **John left**
 
+# UserStory-015
+
+This word is ==highlighted==
+
 
 # UserStory-006
 
@@ -38,6 +42,9 @@
 let a = "Hello World;
 
 ```
+# Userstory 03
+
+[MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
 
 Userstory-019:
 # As a Devops,
@@ -46,4 +53,8 @@ Userstory-019:
 ### Have a Galeon 400 and
 #### Maybe eat pizza every day.
 ##### ps. I'm low carb carnivore ;) 
+
+# Userstory 05
+
+[Google Search Engine](https://www.google.se/).
 
