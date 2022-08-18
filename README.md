@@ -28,6 +28,8 @@ This word is <span style="background-color:yellow">highlighted</span>, this word
 </div>
 
 
+this text is `highlighted`
+
 # UserStory-006  
 
 
