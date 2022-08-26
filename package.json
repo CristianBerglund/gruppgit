@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/CristianBerglund/gruppgit#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "jest": "^29.0.0",
